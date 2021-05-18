@@ -1,7 +1,7 @@
 DataTables/
-js/bootstrap.bundle.min.js
+# js/bootstrap.bundle.min.js
 user/userUploads
-assets/
+# assets/
 admin/tcpdf
 admin/images
 zip/
